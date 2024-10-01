@@ -1,7 +1,7 @@
 # ShelfWise
+![ShelfWise Logo](assets/shelfwise-logo.png)
 
 ShelfWise is a simple command-line interface (CLI) application that allows users to manage a personal book collection. With features for adding book data, generating unique hash codes for each book, and handling borrowing/returning transactions, ShelfWise helps to organize your library efficiently.
-
 ---
 
 ## Table of Contents
@@ -45,7 +45,7 @@ To run *ShelfWise* on your local machine, follow these steps:
    java -cp src uas.MainMenu
 
 To run *ShelfWise* on  github codespaces, follow these steps:
-1. Go to codespaces [Codespaces]: https://jubilant-barnacle-r4p7xj7wpvvgh54j6.github.dev/
+1. Go to [Codespaces](https://jubilant-barnacle-r4p7xj7wpvvgh54j6.github.dev/).
 2. Run the application:
    ```bash
    java -cp src uas.MainMenu
