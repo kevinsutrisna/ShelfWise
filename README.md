@@ -45,7 +45,7 @@ To run *ShelfWise* on your local machine, follow these steps:
    java -cp src uas.MainMenu
 
 To run *ShelfWise* on  github codespaces, follow these steps:
-1. Go to [Glitch][[https://glitch.com/edit/#!/shelfwise].
+1. Go to [Glitch][https://glitch.com/edit/#!/shelfwise].
 2. Run the application:
    ```bash
    java -cp src uas.MainMenu
