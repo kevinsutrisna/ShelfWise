@@ -50,6 +50,3 @@ To run *ShelfWise* on  github codespaces, follow these steps:
 2. Run the application:
    ```bash
    java -cp bin uas.Main
-
-   
-
