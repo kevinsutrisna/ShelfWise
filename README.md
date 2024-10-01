@@ -8,7 +8,6 @@ ShelfWise is a simple command-line interface (CLI) application that allows users
 
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
 
 ---
 
@@ -35,3 +34,22 @@ To run *ShelfWise* on your local machine, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/shelfwise.git
+2. Navigate to the project directory:
+   ```bash
+   cd shelfwise
+3. Compile the project:
+   ```bash
+   javac -d bin src/uas/*.java
+4. Run the application:
+   ```bash
+   java -cp bin uas.Main
+
+To run *ShelfWise* on  github codespaces, follow these steps:
+1. Go to codespaces
+   [Codespaces](https://jubilant-barnacle-r4p7xj7wpvvgh54j6.github.dev/)
+2. Run the application:
+   ```bash
+   java -cp bin uas.Main
+
+   
+
