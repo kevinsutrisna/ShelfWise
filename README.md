@@ -9,6 +9,29 @@ ShelfWise is a simple command-line interface (CLI) application that allows users
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
+
+---
+
+## Features
+
+- **Add new books**: Input interesting book details like title, author, and ISBN.
+- **Generate unique book hash codes**: Each book is assigned a unique hash code for easy identification.
+- **Track borrow/return transactions**: Monitor when a book is borrowed or returned.
+- **CLI-based**: Interact with the system using simple command-line operations.
+
+---
+
+## Installation
+
+To run *ShelfWise* on your local machine, follow these steps:
+
+### Prerequisites
+
+- Java 8 or higher installed. 
+- Git installed.
+
+### Steps
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/shelfwise.git
